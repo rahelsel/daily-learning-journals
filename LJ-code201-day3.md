@@ -1,0 +1,3 @@
+#Daily Log
+
+##My thoughts
