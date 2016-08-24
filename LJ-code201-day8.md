@@ -1,4 +1,4 @@
-#Daily Log of thoughts
+#LJ Code 201 - Day 8
 
 #Review of Objects
 
@@ -14,10 +14,10 @@ obj
 
 #Make a constructor:
 
-function Course(title, studentCount) {
-  this.title = title;
-  this.studentCount = studentCount;
-}
+>function Course(title, studentCount) {
+>  this.title = title;
+>  this.studentCount = studentCount;
+>}
 
 var code_201 = new Course(201, 6);
 
